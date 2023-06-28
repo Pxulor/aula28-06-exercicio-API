@@ -1,0 +1,11 @@
+[
+	{
+	"id": "68fdd68e-d49f-4d15-ac1f-b683443580d8",
+	"nome": "Aluno Teste",
+	"boletim":{
+        "matematica": 8.5,
+		"portugues": 7,
+		"historia": 6,
+		"ingles": 9.5}
+	}
+]
