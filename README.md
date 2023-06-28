@@ -1,5 +1,5 @@
 # aula28-06-exercicio-API
-Crie um API com as o JSON em anexo e as seguintes rotas:
+Crie um API com o JSON em anexo e as seguintes rotas:
 
 - GET: exibe todos os resultados
 - GET: exibe por ID
